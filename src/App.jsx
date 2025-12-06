@@ -176,7 +176,8 @@ const Web3WalletApp = () => {
         {/* Header */}
         <div className="text-center mb-8 pt-8">
           <h1 className="text-4xl font-bold text-white mb-2">Token Sale</h1>
-          <p className="text-indigo-200">Approve and Buy CredPal Debt Capital Token</p>
+          <p className="text-green-200"><a target="_blank" href='https://sepolia.basescan.org/address/0x870aE9f1C319eDB4F71Fa110e790839a0aFf27D1#code'>CredPal Debt Capital Token Contract</a> </p>
+          {/* <p className="text-indigo-200">Approve and Buy CredPal Debt Capital Token</p> */}
         </div>
 
         {/* Wallet Connection Card */}
